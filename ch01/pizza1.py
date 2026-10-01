@@ -6,7 +6,7 @@ from tkinter import messagebox
 # 주문 처리 함수
 # -------------------------
 def order_pizza():
-    total_price = 0
+    total_price = 10
     order_list = []
 
     try:
